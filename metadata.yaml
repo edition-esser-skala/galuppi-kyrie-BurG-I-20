@@ -1,0 +1,20 @@
+composer:
+  last: Galuppi
+  first: Baldassare
+title: Kyrie
+id: BurG I/20
+genre: mass
+scoring: S, A (solo), S, A, T, B (coro), 2 cor (G), 2 vl, vla, vlc, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2973-D-5
+    date: 1750–1764
+    rism: 212006129
+    url: https://digital.slub-dresden.de/id426209354
+    license: public domain
+    principal: true
+imslp:
+parts:
+  cor12: Corno I, II in G
