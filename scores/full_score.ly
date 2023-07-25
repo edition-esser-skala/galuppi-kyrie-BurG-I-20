@@ -5,15 +5,15 @@
 
 \book {
   \bookpart {
-    \section "1" "Kyrie"
-    % \addTocEntry
+    \section "Kyrie"
+    \addTocEntry
     \paper { indent = 3\cm }
     \score { %\articulate
       <<
         \new StaffGroup <<
           \new Staff <<
             \set Staff.instrumentName = \transposedName "Corno I, II" "G" ""
-            % \transpose c g,
+            \transpose g c'
             \partCombine #'(0 . 10) \KyrieCornoI \KyrieCornoII
           >>
         >>
@@ -69,7 +69,7 @@
         \new FiguredBass { \KyrieBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 72 } % 90 – 60 – 120
     }
   }
 }

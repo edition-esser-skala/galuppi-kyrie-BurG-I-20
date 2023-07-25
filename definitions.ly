@@ -1,12 +1,18 @@
 \version "2.24.0"
 
-#(define option-movement-title-format "number-title")
-#(define option-print-all-bar-numbers #t)
+#(define option-movement-title-format "title")
+#(define option-print-all-bar-numbers #f)
 \include "ees.ly"
-\include "ees_articulate.ly"
+% \include "ees_articulate.ly"
+
+
+hideAcc = \once \override Accidental.stencil = ##f
 
 
 tempoKyrie = \tempoMarkup "Andante"
+tempoChriste = \tempoMarkup "Allegretto"
+tempoKyrieB = \tempoMarkup "Adagio maestoso"
+tempoKyrieC = \tempoMarkup "Allegro"
 
 
 \include "notes/cor1.ly"
