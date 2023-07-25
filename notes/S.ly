@@ -125,7 +125,7 @@ KyrieSoprano = {
     R2 \noBreak
     R\fermata \bar "||"
     \time 4/4 \tempoKyrieB \newSpacingSection R1*2 %170
-    \mvTr h2.\fE^\tuttiE h4
+    \mvDl h2.\fE^\tuttiE h4
     cis1
     h
     c2. c4

@@ -71,7 +71,7 @@ KyrieTenore = {
     R2 \noBreak
     R\fermata \bar "||"
     \time 4/4 \tempoKyrieB \newSpacingSection R1*2 %170
-    \mvTr d2.\fE^\tutti d4
+    \mvDl d2.\fE^\tutti d4
     e1
     d
     dis2. dis4

@@ -127,7 +127,7 @@ KyrieAlto = {
     R2 \noBreak
     R2\fermata \bar "||"
     \time 4/4 \tempoKyrieB \newSpacingSection R1*2 %170
-    \mvTr fis1\fE^\tuttiE
+    \mvDl fis1\fE^\tuttiE
     g2. g4
     fis2 fis~
     fis1

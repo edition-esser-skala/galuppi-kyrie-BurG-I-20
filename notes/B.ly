@@ -77,7 +77,7 @@ KyrieBasso = {
     R2 \noBreak
     R\fermata \bar "||"
     \time 4/4 \tempoKyrieB \newSpacingSection R1*2 %170
-    \mvTr h'1~\fE^\tuttiE
+    \mvDl h'1~\fE^\tuttiE
     h2 ais4 ais
     h2 h
     a!1
